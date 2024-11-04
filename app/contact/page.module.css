@@ -1,0 +1,21 @@
+
+.contactContainer {
+  text-align: center;
+  padding: 3rem;
+  background: linear-gradient(to bottom right, #0070f3, #333);
+  color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.contactLink {
+  font-size: 1.2rem;
+  color: #fffb00;
+  text-decoration: underline;
+  transition: color 0.3s ease;
+}
+
+.contactLink:hover {
+  color: #fff;
+  text-shadow: 0 0 8px #fffb00;
+}
